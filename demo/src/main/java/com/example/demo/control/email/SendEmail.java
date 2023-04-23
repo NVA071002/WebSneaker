@@ -19,8 +19,8 @@ import java.util.Random;
  */
 public class SendEmail {
 
-    final String fromEmail = "20110352@student.hcmute.edu.vn";
-    final String password = "vietanh0710";
+    final String fromEmail = "";
+    final String password = "";
 
     public String getRandom() {
 
